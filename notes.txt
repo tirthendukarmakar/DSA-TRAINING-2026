@@ -1,0 +1,24 @@
+Python set(): Check if len(set(your_string)) == 1. Since a set only stores unique values, a string with one unique character will result in a set of length one.
+
+recursion--------> when the main problem can be divided into in similar sub problem, then we use recursion
+it's use the stack memory
+
+--------------Tree--------------
+
+Tree represent in two types:
+1. Array/List
+2. LinkedList
+
+---------------complecity------------
+
+
+
+--------------Questions---------------
+https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
+https://www.hackerrank.com/challenges/insertionsort1/problem
+https://www.hackerrank.com/challenges/recursive-digit-sum/problem
+
+
+n = int(input().strip())
+
+arr = list(map(int, input().rstrip().split()))

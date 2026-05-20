@@ -1,0 +1,10 @@
+chr = ord(input("Enter any one charector :"))#b
+if chr >=65 and chr<=90:
+    print("upper case")
+elif chr >=97 and chr<=122:
+    print("lower case")
+elif chr >=48 and chr<=57:
+    print("digit")
+else:
+    print("special symbol")
+

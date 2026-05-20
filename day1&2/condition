@@ -1,0 +1,8 @@
+#simple if
+a=int(input("Enter any simgle digit :"))
+if(a>0):
+    print("positive no")
+if(a<0):
+    print("Negative no")
+if(a==0):
+    print("Zero")
